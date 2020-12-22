@@ -1,4 +1,4 @@
-remote_theme: eliottvincent/bay
+remote_theme: emmacarli/bay
 
 
 
@@ -10,7 +10,7 @@ header:
     - name: Blog  # <-- blog.md
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: emma.carli@postgrad.manchester.ac.uk
