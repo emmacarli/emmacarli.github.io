@@ -1,1 +1,25 @@
 remote_theme: eliottvincent/bay
+
+
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Research  # <-- research.md
+    - name: Blog  # <-- blog.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: emma.carli@postgrad.manchester.ac.uk
+      link: mailto:emma.carli@postgrad.manchester.ac.uk
+
+  follow:
+    - name: LinkedIn
+      link: http://linkedin.com/in/emmacarli
+    - name: GitHub
+      link: http://github.com/emmacarli
+    - name: ResearchGate
+      link: https://www.researchgate.net/profile/Emma_Carli2
