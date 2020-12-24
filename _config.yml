@@ -2,6 +2,9 @@ remote_theme: emmacarli/bay
 
 title: Emma Carli
 
+sass:
+    style: :compressed
+
 
 
 header:
