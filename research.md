@@ -1,7 +1,6 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: work
+slug: /research
 ---
 
 <p>
