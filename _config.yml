@@ -12,7 +12,7 @@ header:
     - name: Blog  # <-- blog.md
 
 footer:
-  show_powered_by: false
+  show_powered_by: true
   contact:
     - name: Email
       value: emma.carli@postgrad.manchester.ac.uk
