@@ -2,7 +2,7 @@
 layout: post
 title:  "PRESTO, TEMPO and PINT installation"
 date:   2019-04-02 10:00:00
-blurb: "How to install PRESTO, TEMPO and PINT on Ubuntu."
+blurb: "How to install PRESTO, TEMPO and PINT on Ubuntu 18.04."
 ---
 
 This was up to date as of April 2020. It might not be now... I will update if I ever have to reinstall them.
