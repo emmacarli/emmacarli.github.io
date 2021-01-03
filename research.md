@@ -1,4 +1,5 @@
 ---
+title: Research
 layout: work
 slug: /research
 items:
@@ -11,7 +12,7 @@ items:
     image:
       src: /assets/img/research/MeerKAT.jpg
       alt: MeerKAT
-    description: Of about 2800 pulsars discovered, only about 29 are situated outside our galaxy, the Milky Way. The aim of my thesis at the University of Manchester is to discover more extragalactic pulsars using a new radio observatory, MeerKAT. It is a precursor of the mid-frequency component of the Square Kilometer Array (SKA), an international project to build the largest radio interferometer ever designed. MeerKAT is located in South Africa, in the radio-protected Karoo desert. With its 64 14-metre dishes, it will be the most sensitive radio interferometer in its wavelength range. Image: SARAO
+    description: Of about 2800 pulsars discovered, only about 29 are situated outside our galaxy, the Milky Way. The aim of my thesis at the University of Manchester is to discover more extragalactic pulsars using a new radio observatory, MeerKAT. It is a precursor of the mid-frequency component of the Square Kilometer Array (SKA), an international project to build the largest radio interferometer ever designed. MeerKAT is located in South Africa, in the Karoo desert. With its 64 14-metre dishes, it is the most sensitive radio interferometer in its wavelength range. Image: SARAO
 ---
 Here are my research interests:
 <br />
