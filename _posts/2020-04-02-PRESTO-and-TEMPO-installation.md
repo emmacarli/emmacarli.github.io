@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "PRESTO, TEMPO and PINT installation"
+title:  "PRESTO and TEMPO installation"
 date:   2019-04-02 10:00:00
-blurb: "How to install PRESTO, TEMPO and PINT on Ubuntu 18.04."
+blurb: "How to install PRESTO and TEMPO on Ubuntu 18.04."
 ---
 
-This was up to date as of April 2020. It might not be now... I will update if I ever have to reinstall them.
-What I've ran on my Ubuntu 18.04 64 bit, with Anaconda python 3, to install PRESTO, TEMPO and PINT:
+This was up to date as of April 2020. It might not be now...
+What I've ran on my Ubuntu 18.04 64 bit, with Anaconda Python 3, to install PRESTO and TEMPO:
 
 	sudo apt-get update
 
@@ -63,5 +63,5 @@ then added:
 	sudo cp libpresto.so /usr/lib
 
 
-Note, if you keep PRESTO up to date using github, you will need to run all the lines starting from "make..." to install the updates.
+Note, if you keep PRESTO up to date using GitHub, you will need to run all the lines starting from "make..." to install the updates.
 Some Python commands will not work because PRESTO is not entirely compatible with Anaconda installations: https://github.com/scottransom/presto/issues/73 . These ones {pygaussfit.py, prepfold, sum_profiles.py, get_TOAs.py} work.
