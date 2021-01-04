@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Emma Carli, I am a PhD student at the University of Manchester (UK), in the Jodrell Bank Centre for Astrophysics. I study pulsars with Prof. Ben Stappers, with the MeerKAT telescope.
+  Hi! I'm Emma Carli, I am a PhD student at the University of Manchester (UK), in the Jodrell Bank Centre for Astrophysics. I study pulsars using the MeerKAT telescope with Prof. Ben Stappers and Dr. Lina Levin.
 </p>
