@@ -8,7 +8,7 @@ items:
       src: /assets/img/research/MeerKAT.jpg
       alt: MeerKAT
     description: >-
-        Observations will be conducted in the radio band with the MeerKAT telescope, a radio dish interferometer approaching completion in South Africa. The MeerKAT telescope is a precursor of the mid-frequency component of the Square Kilometer Array, an international project to build the largest radio interferometer ever designed. MeerKAT is located in South Africa, in the Karoo desert. It will be the most sensitive radio interferometer in its wavelength range. It consists of 64 Gregorian dishes, each of 13.96m diameter. The furthest dishes have a maximum separation of 8 km. This project is part of a larger MeerKAT pulsar survey, ![TRAPUM](http://trapum.org). Image: South African Radio Astronomy Observatory
+        Observations will be conducted in the radio band with the MeerKAT telescope, a radio dish interferometer approaching completion in South Africa. The MeerKAT telescope is a precursor of the mid-frequency component of the Square Kilometer Array, an international project to build the largest radio interferometer ever designed. MeerKAT is located in South Africa, in the Karoo desert. It will be the most sensitive radio interferometer in its wavelength range. It consists of 64 Gregorian dishes, each of 13.96m diameter. The furthest dishes have a maximum separation of 8 km. This project is part of a larger MeerKAT pulsar survey, TRAPUM. Image: South African Radio Astronomy Observatory
   - title: Pulsars
     image:
       src: /assets/img/research/pulsar.jpg
