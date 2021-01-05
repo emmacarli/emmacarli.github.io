@@ -1,5 +1,6 @@
 ---
 layout: work
+title: Research
 slug: /research
 items:
   - title: Pulsars
