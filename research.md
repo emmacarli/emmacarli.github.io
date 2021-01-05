@@ -4,7 +4,7 @@ slug: /research
 items:
   - title: Pulsars
     image:
-      src: /assets/img/research/pulsar.gif
+      src: /assets/img/research/pulsar.jpg
       alt: pulsar
     description: I study pulsars, which are fast spinning collapsed stars. Their lighthouse-like radio beams are observed as pulses from the Earth. They are amongst the most extreme objects of the Universe - they are some of the fastest spinning stars (usually, they undergo one complete revolution in less than a few seconds); they are the smallest and densest stars, with approximately the mass of our Sun contained in a radius of a few tens of kilometres; and they have the strongest stellar magnetic fields.
   - title: MeerKAT
