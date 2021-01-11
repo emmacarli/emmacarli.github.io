@@ -65,3 +65,19 @@ then added:
 
 Note, if you keep PRESTO up to date using GitHub, you will need to run all the lines starting from "make..." to install the updates.
 Some Python commands will not work because PRESTO is not entirely compatible with Anaconda installations: https://github.com/scottransom/presto/issues/73 . These ones {pygaussfit.py, prepfold, sum_profiles.py, get_TOAs.py} work.
+
+Sources:
+
+- https://blog.csdn.net/sinat_34850075/article/details/52434526
+
+- https://github.com/scottransom/presto/blob/master/INSTALL
+
+- https://docs.google.com/document/d/1v8Dm4f-SOeDQX5Yli6syek1pxtqgpw81b1cxqoqv2aU
+
+- http://zhaozhen.me/2017/10/16/ubuntu-software-presto.html
+
+- http://tempo.sourceforge.net/
+
+- https://summerpulsar.wordpress.com/2015/01/12/more-presto-installation/
+
+
