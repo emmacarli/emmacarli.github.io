@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Check Point VPN installation"
-date:   2020-04-02 10:00:00
+date:   2020-02-12 10:00:00
 blurb: "How to install Check Point Endpoint Security VPN on Ubuntu 20.04."
 ---
 
