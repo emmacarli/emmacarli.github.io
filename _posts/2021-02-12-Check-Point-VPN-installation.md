@@ -6,14 +6,19 @@ blurb: "How to install Check Point Endpoint Security VPN on Ubuntu 20.04."
 ---
 
 
-Ubuntu 20.04 64 bit
+Ubuntu 20.04 64 bit. This was working as of February 2021
 
-Download from: [Check Point](https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=8993)
+Download from: [https://starkers.keybase.pub/snx_install_linux30.sh?dl=1](https://starkers.keybase.pub/snx_install_linux30.sh?dl=1). This is an older version, newer versions don't seem to work.
 
 Extract the files, then:
 
-	sudo apt-get install libx11-6:i386
-	sh +x snx_install.sh
+	sudo dpkg --add-architecture i386
+	sudo apt-get update    
 
-
-
+	sudo apt-get install libstdc++5:i386 libx11-6:i386 libpam0g:i386
+	chmod a+rx snx_install_linux30.sh
+	sudo ./snx_install_linux30.sh
+	
+Sources:
+- [https://unix.stackexchange.com/questions/477689/linux-checkpoint-snx-tool-configuration-issues](https://unix.stackexchange.com/questions/477689/linux-checkpoint-snx-tool-configuration-issues)
+- [https://unix.stackexchange.com/questions/450229/getting-checkpoint-vpn-ssl-network-extender-working-in-the-command-line](https://unix.stackexchange.com/questions/450229/getting-checkpoint-vpn-ssl-network-extender-working-in-the-command-line)
