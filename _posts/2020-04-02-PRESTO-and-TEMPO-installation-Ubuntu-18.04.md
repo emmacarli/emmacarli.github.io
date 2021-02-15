@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PRESTO and TEMPO installation"
+title:  "PRESTO and TEMPO installation Ubuntu 18.04"
 date:   2020-04-02 10:00:00
 blurb: "How to install PRESTO and TEMPO on Ubuntu 18.04."
 ---
@@ -68,16 +68,16 @@ Some Python commands will not work because PRESTO is not entirely compatible wit
 
 Sources:
 
-- [](https://blog.csdn.net/sinat_34850075/article/details/52434526)
+- [https://blog.csdn.net/sinat_34850075/article/details/52434526](https://blog.csdn.net/sinat_34850075/article/details/52434526)
 
-- [](https://github.com/scottransom/presto/blob/master/INSTALL)
+- [https://github.com/scottransom/presto/blob/master/INSTALL](https://github.com/scottransom/presto/blob/master/INSTALL)
 
-- [](https://docs.google.com/document/d/1v8Dm4f-SOeDQX5Yli6syek1pxtqgpw81b1cxqoqv2aU)
+- [https://docs.google.com/document/d/1v8Dm4f-SOeDQX5Yli6syek1pxtqgpw81b1cxqoqv2aU](https://docs.google.com/document/d/1v8Dm4f-SOeDQX5Yli6syek1pxtqgpw81b1cxqoqv2aU)
 
-- [](http://zhaozhen.me/2017/10/16/ubuntu-software-presto.html)
+- [http://zhaozhen.me/2017/10/16/ubuntu-software-presto.html](http://zhaozhen.me/2017/10/16/ubuntu-software-presto.html)
 
-- [](http://tempo.sourceforge.net/)
+- [http://tempo.sourceforge.net/](http://tempo.sourceforge.net/)
 
-- [](https://summerpulsar.wordpress.com/2015/01/12/more-presto-installation/)
+- [https://summerpulsar.wordpress.com/2015/01/12/more-presto-installation/](https://summerpulsar.wordpress.com/2015/01/12/more-presto-installation/)
 
 
